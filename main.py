@@ -13,7 +13,7 @@ if userChoice == computerChoice:
     print("\nIt was a tie!\n")
 elif userChoice == "rock":
     if computerChoice == "scissors":
-        print("\nRock smashes scissers, you win!\n")
+        print("\nRock smashes scissors, you win!\n")
     else:
         print("\nPaper covers rock, you lose.\n")
 elif userChoice == "paper":
